@@ -13,7 +13,7 @@ MWCNN Paper: https://arxiv.org/pdf/1805.07071
 
 
 ## Inference/Evaluation
-To expermiment with saved model ,download the model in joblob file from the github repo.
+To evaluate the saved model ,download the FINAL_MODEL_.joblib and run this model in main.ipynb file.
 
 And run the main.ipynb notebook.
 ## Results
