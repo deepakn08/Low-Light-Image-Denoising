@@ -13,15 +13,10 @@ MWCNN Paper: https://arxiv.org/pdf/1805.07071
 
 
 ## Inference/Evaluation
-<<<<<<< HEAD
-To evaluate the saved model ,download the FINAL_MODEL_.joblib and run this model in main.ipynb file.
-=======
-
 To expermiment with saved model ,download the model in joblob file from the github repo.
 And run the main.ipynb notebook.
 To evaluate the saved model ,download the FINAL_MODEL_.joblib and run this model in main.ipynb file.
 
->>>>>>> aebc0de7f47aa70bba6ade904d443973dac7bd43
 ## Results
 ![Screenshot 2024-06-18 155040](https://github.com/deepakn08/Low-Light-Image-Denoising/assets/145531878/9045982c-dcf5-40fc-9494-6347ad21a034)
 ![Screenshot 2024-06-18 155052](https://github.com/deepakn08/Low-Light-Image-Denoising/assets/145531878/d653e8db-5388-49be-9b5a-d439b0cf2211)
